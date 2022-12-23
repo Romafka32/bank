@@ -10,6 +10,7 @@ public class BankApplication {
 		SpringApplication.run(BankApplication.class, args);
 
 		String B = null;
+		int y;
 
 	}
 
