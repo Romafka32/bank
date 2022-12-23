@@ -11,6 +11,7 @@ public class BankApplication {
 
 		String B = null;
 		int y;
+		Integer integer;
 
 	}
 
